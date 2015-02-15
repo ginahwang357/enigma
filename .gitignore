@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.rbc
 capybara-*.html
 .rspec
@@ -29,3 +30,16 @@ config/secrets.yml
 /vendor/assets/bower_components
 *.bowerrc
 bower.json
+=======
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+>>>>>>> a4429c37114d4f8a350ad9fa4ad23ab452a9102d
