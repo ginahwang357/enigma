@@ -3,5 +3,7 @@ class PagesController < ApplicationController
   end
 
   def about
+   @major = "MCB"
+   @age = 7 
   end
 end
