@@ -4,6 +4,6 @@ class PagesController < ApplicationController
 
   def about
    @major = "MCB"
-   @age = 7 
+   @age = 14 
   end
 end
