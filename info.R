@@ -1,5 +1,0 @@
-name = "Gina Hwang"
-SID = "22632945"
-email = "ginahwang357@berkeley.edu"
-github_name = "ginahwang357"
-status = "enrolled"
